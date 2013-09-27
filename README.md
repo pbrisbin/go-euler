@@ -1,3 +1,3 @@
 # Go Euler
 
-Solutions to <projecteuler.net> in Go.
+Solutions to http://projecteuler.net in Go.
